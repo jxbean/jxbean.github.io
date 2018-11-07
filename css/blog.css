@@ -181,12 +181,12 @@ h6, .h6 {
     margin-bottom: 0;
 }
 
-.container, footer {
-    padding-left: 300px;
+.container{
+    padding-left: 150px;
   }
 
-  @media only screen and (max-width : 1280px) {
-    .container, footer {
+  @media only screen and (max-width : 600px) {
+    .container {
       padding-left: 0;
     }
   }
